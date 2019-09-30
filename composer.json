@@ -1,0 +1,17 @@
+{
+  "name": "dayuliu/bulk-insert",
+  "authors": [
+    {
+      "name": "liudayu",
+      "email": "liugang@zuoyebang.com"
+    }
+  ],
+  "config": {
+    "platform": {
+      "php": "7.0.29"
+    }
+  },
+  "require": {
+    "doctrine/dbal": "^2.5"
+  }
+}
