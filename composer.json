@@ -13,5 +13,10 @@
   },
   "require": {
     "doctrine/dbal": "^2.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "bulkinsert\\": "src"
+    }
   }
 }
